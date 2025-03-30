@@ -1,0 +1,6 @@
+{
+    "editor.linkedEditing": true,
+    "editor.fontSize": 16,
+    "editor.fontFamily": "",
+    "files.autoSave": "onFocusChange"
+}
